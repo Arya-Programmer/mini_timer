@@ -1,8 +1,8 @@
-# Circular Menu
+# mini_timer
 
-A simple(not so much) Circular Menu, with some self-needed features
+A simple and user-friendly timer app, with fun features
 
-## What to write here
+## Getting Started
 
 Still working on this so I have no idea what to write here
-But if you have any idea what to write here I would appreciate your contribution
+If you have any idea what to write here contribute ^^, I'd appreciate it.
